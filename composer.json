@@ -1,0 +1,13 @@
+{
+    "name": "jbirc/page-top-class",
+    "description": "requires HTMLClass, groups base HTML elements into groups for more page friendly displays",
+    "authors": [
+        {
+            "name": "Joel Birch",
+            "email": "jbirch88655@gmail.com"
+        }
+    ],
+    "require": {
+        "jbirc/htmlclass": "dev-master"
+    }
+}

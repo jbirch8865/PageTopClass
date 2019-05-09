@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "75dd3334e63b6f1ba2075e98ec5c35cb",
+    "packages": [
+        {
+            "name": "jbirc/htmlclass",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jbirch8865/HTMLClass.git",
+                "reference": "07d3f8b5ec8d8c9a2050b9da45a52d73e345b270"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jbirch8865/HTMLClass/zipball/07d3f8b5ec8d8c9a2050b9da45a52d73e345b270",
+                "reference": "07d3f8b5ec8d8c9a2050b9da45a52d73e345b270",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Joel Birch",
+                    "email": "jbirch88655@gmail.com"
+                }
+            ],
+            "description": "PHP Class for building HTML front end designs with javascript",
+            "time": "2019-05-09T22:32:15+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "jbirc/htmlclass": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
